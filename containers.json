@@ -1,0 +1,8 @@
+{
+    "flask": {
+        "image": ":url-shortener.url-shortener.1",
+        "ports": {
+            "5000": "HTTP"
+        }
+    }
+}
